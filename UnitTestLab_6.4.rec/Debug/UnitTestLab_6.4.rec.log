@@ -1,0 +1,8 @@
+﻿  UnitTestLab_6.4.rec.cpp
+C:\Users\Користувач\source\repos\Lab_6.4.rec\lab_6.4.rec\LAB.cpp(69,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Користувач\source\repos\Lab_6.4.rec\lab_6.4.rec\LAB.cpp(70,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Користувач\source\repos\Lab_6.4.rec\lab_6.4.rec\LAB.cpp(79,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Користувач\source\repos\Lab_6.4.rec\lab_6.4.rec\LAB.cpp(80,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Користувач\source\repos\Lab_6.4.rec\lab_6.4.rec\LAB.cpp(81,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Користувач\source\repos\Lab_6.4.rec\lab_6.4.rec\LAB.cpp(81,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  UnitTestLab_6.4.rec.vcxproj -> C:\Users\Користувач\source\repos\Lab_6.4.rec\Debug\UnitTestLab_6.4.rec.dll
